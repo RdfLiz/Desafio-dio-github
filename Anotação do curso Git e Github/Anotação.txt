@@ -1,0 +1,4 @@
+ls
+git status
+cd ..
+git commit -m "..."
